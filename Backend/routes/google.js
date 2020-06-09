@@ -5,21 +5,27 @@ const request = require('request');
 const domain = "https://www.googleapis.com/customsearch/v1?";
 const searchEngineId = "014084525223874106894:4x1p9yl0hou";
 const apiKey = "AIzaSyBe8wqsA28X7JYWspBtfscxL7yQuyWE9rg";
-var queryString = "Tax+payment";
-var url = domain + "cx=" + searchEngineId + "&key=" + apiKey + "&q=" + queryString;
+var queryString = "";
+const maxItem = 2;
 
-request(url, { json: true }, (err, res, body) => {
-  if (err) { return console.log(err); }
-	router.get('/', function(req, response, next) {
-		console.log(url);
-		var topHit = body.items[0].link;
-		var secondHit = body.items[1].link;
-		var totalResult = body.searchInformation.totalResults;
-		var topHitSnippet = body.items[0].snippet;
-		var secondHitSnippet = body.items[1].snippet;
-		response.render('google', { topHit: topHit, total_results: totalResult, topHitSnippet: topHitSnippet, 
-									secondHit: secondHit, secondHitSnippet: secondHitSnippet});
+
+router.get('/query/', function(req, response) {	
+	queryString = req.query.q;
+	console.log(queryString);
+	//queryString = "Tax payment";
+	var url = domain + "cx=" + searchEngineId + "&key=" + apiKey + "&q=" + queryString;
+	console.log(url);
+	request(url, {json:true}, function(err, res, body) {
+		var totalResult = body.searchInformation.totalResults;		
+		var hits = [];
+		for (var i = 0; i < maxItem; i++) {
+			hits[i] = {url: body.items[i].link, snippet: body.items[i].snippet, rank: i+1}
+		}
+		var answer = {totalResult: totalResult, hits: hits}
+		console.log(answer);
+		response.send(answer);
 	});
+	
 });
 
 module.exports = router;

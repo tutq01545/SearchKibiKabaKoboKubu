@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bf1435e-aa01-4ffb-b9e2-b64f713479e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1fre2MbzGWVcpEa2spGlYxycRz2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Resource" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-Tien\WebstormProjects\react-chat-app\src\Components" />
+      <recent name="C:\Users\PC-Tien\WebstormProjects\react-chat-app\src\Components\ContentComponents\SearchComponent\SearchResultComponents" />
+      <recent name="C:\Users\PC-Tien\WebstormProjects\react-chat-app\src\Components\ContentComponents" />
+      <recent name="C:\Users\PC-Tien\WebstormProjects\react-chat-app\src\Components\ContentComponents\SearchComponent" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-Tien\WebstormProjects\react-chat-app\src\Resource" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bf1435e-aa01-4ffb-b9e2-b64f713479e6" name="Default Changelist" comment="" />
+      <created>1596980430360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596980430360</updated>
+      <workItem from="1596980432303" duration="22713000" />
+      <workItem from="1597018604234" duration="3745000" />
+      <workItem from="1597022396133" duration="6422000" />
+      <workItem from="1597041510728" duration="3017000" />
+      <workItem from="1597343007886" duration="5147000" />
+      <workItem from="1597384423083" duration="810000" />
+      <workItem from="1597396867596" duration="15000" />
+      <workItem from="1597757068375" duration="2049000" />
+      <workItem from="1597871928467" duration="644000" />
+      <workItem from="1597923016455" duration="1127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="184" key="GridCell.Tab.0.bottom" timestamp="1597872577112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="184" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597872577112" />
+    <state width="1899" height="184" key="GridCell.Tab.0.center" timestamp="1597872577111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="184" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597872577111" />
+    <state width="1899" height="184" key="GridCell.Tab.0.left" timestamp="1597872577111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="184" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597872577111" />
+    <state width="1899" height="184" key="GridCell.Tab.0.right" timestamp="1597872577111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="184" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597872577111" />
+    <state x="1103" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1597758892109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597758892109" />
+  </component>
+</project>

@@ -1,0 +1,50 @@
+[  {
+  "topic": "Apple",
+  "totalResult": "2400000000",
+  "hits": [
+    {
+      "url": "https://www.apple.com/",
+      "snippet": "Announcing our biggest updates ever to iOS, iPadOS, WatchOS — and the \nentirely reimagined macOS Big Sur.",
+      "rank": 1
+    },
+    {
+      "url": "https://support.apple.com/",
+      "snippet": "Apple support is here to help. Learn more about popular topics and find \nresources that will help you with all of your Apple products.",
+      "rank": 2
+    }
+  ]
+},
+  {
+    "topic": "Tim Cook",
+    "totalResult": "183000000",
+    "hits": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tim_Cook",
+        "snippet": "Timothy Donald Cook (born November 1, 1960) is an American business \nexecutive, philanthropist and industrial engineer. Cook is the chief executive \nofficer of ...",
+        "rank": 1
+      },
+      {
+        "url": "https://twitter.com/tim_cook?lang=en",
+        "snippet": "The latest Tweets from Tim Cook (@tim_cook). Apple CEO Auburn Duke National \nParks 🏞️ “Life's most persistent and urgent question is, 'What are you ...",
+        "rank": 2
+      }
+    ]
+
+  },
+  {
+    "topic": "Steve Jobs",
+    "totalResult": "427000000",
+    "hits": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Steve_Jobs",
+        "snippet": "Steven Paul Jobs was an American business magnate, industrial designer, \ninvestor, and media proprietor. He was the chairman, chief executive officer (CEO\n), ...",
+        "rank": 1
+      },
+      {
+        "url": "https://www.biography.com/business-figure/steve-jobs",
+        "snippet": "Jun 10, 2020 ... Steven Paul Jobs was an American inventor, designer and entrepreneur who \nwas the co-founder, chief executive and chairman of Apple ...",
+        "rank": 2
+      }
+    ]
+
+  }]
